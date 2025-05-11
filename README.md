@@ -13,6 +13,8 @@ Por eso en este trabajo quiero hablar de dos casos que, aunque muy distintos, me
 
 JUST DANCE: cuando el cuerpo se convierte en interfaz
 
+![analisis-just-dance-2022_y8g5](https://github.com/user-attachments/assets/05216d10-ebe7-4bc7-8054-8d7f481e4ca3)
+
 De todos los videojuegos con los que he jugado, Just Dance es probablemente el que más veces ha reunido a gente distinta en un mismo espacio. Amigos, primos, personas que nunca habían tocado una consola. En ese sentido, siempre me pareció especial, pero al mirarlo ahora desde el enfoque que propone Manovich, me doy cuenta de que tiene mucho más detrás.
 
 En Just Dance, no hay un mando tradicional. El cuerpo del jugador es lo que se convierte en herramienta de interacción. A través de sensores de movimiento o de la cámara, el software interpreta los gestos, los compara con una coreografía predefinida y responde en tiempo real. Aquí entra uno de los conceptos que plantea Manovich: la transcodificación. El movimiento físico se traduce en datos, y esos datos son los que permiten que el juego exista tal como lo conocemos.
@@ -23,7 +25,9 @@ Otro punto importante es la variabilidad. La experiencia no es la misma para cad
 
 En definitiva, Just Dance es un ejemplo claro de cómo el software no solo gestiona contenido: lo transforma, lo adapta y lo convierte en una experiencia en la que cuerpo y pantalla se funden.
 
-BETWEEN PAGE AND SCRRN: un libro que solo se revela a través de la cámara
+BETWEEN PAGE AND SCRREN: un libro que solo se revela a través de la cámara
+
+![feature_laptop](https://github.com/user-attachments/assets/c22a80ce-b62a-4a0c-bbea-539d7342c885)
 
 No he tenido la oportunidad de tener Between Page and Screen en mis manos, pero investigando sobre él me ha resultado fascinante todo lo que propone. Es una obra que se sitúa entre lo físico y lo digital, que no se deja entender del todo a través de fotos o descripciones, pero que precisamente por eso me llamó tanto la atención. Es un libro sin texto visible, pero lleno de contenido. En sus páginas no hay palabras, sino códigos geométricos que, al ser leídos por una webcam a través de una web específica, activan poemas en realidad aumentada.
 
