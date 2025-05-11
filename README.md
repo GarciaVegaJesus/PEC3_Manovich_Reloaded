@@ -27,7 +27,7 @@ En definitiva, Just Dance es un ejemplo claro de cómo el software no solo gesti
 
 BETWEEN PAGE AND SCRREN: un libro que solo se revela a través de la cámara
 
-![feature_laptop](https://github.com/user-attachments/assets/c22a80ce-b62a-4a0c-bbea-539d7342c885)
+![59e921_17c5f879f8d34f75a59322d9600c01a3~mv2](https://github.com/user-attachments/assets/39e4760d-acea-4c47-a67a-3c3e50575e1b)
 
 No he tenido la oportunidad de tener Between Page and Screen en mis manos, pero investigando sobre él me ha resultado fascinante todo lo que propone. Es una obra que se sitúa entre lo físico y lo digital, que no se deja entender del todo a través de fotos o descripciones, pero que precisamente por eso me llamó tanto la atención. Es un libro sin texto visible, pero lleno de contenido. En sus páginas no hay palabras, sino códigos geométricos que, al ser leídos por una webcam a través de una web específica, activan poemas en realidad aumentada.
 
