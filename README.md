@@ -1,7 +1,7 @@
 # PEC3_Manovich_Reloaded
-AUTOR: JESÚS MANUEL GARCÍA VEGA
+__AUTOR:__ JESÚS MANUEL GARCÍA VEGA
 
-PLANTEAMIENTO
+<h2>PLANTEAMIENTO</h2>
 
 Cuando empecé a leer el libro El software toma el mando de Manovich, no pensé que me haría replantear tantas cosas sobre el tipo de contenido digital con el que convivo a diario. Me sorprendió ver cómo, más allá de la tecnología que usamos, hay toda una forma nueva de pensar lo que consumimos, lo que creamos y cómo lo hacemos. Manovich habla de ponerse unas “gafas de software”, y aunque al principio me sonó un poco abstracto, pronto entendí a qué se refería.
 
@@ -11,7 +11,7 @@ Y cuando miro a mi alrededor, me doy cuenta de que eso está por todas partes. L
 
 Por eso en este trabajo quiero hablar de dos casos que, aunque muy distintos, me parecen buen ejemplo de esa mezcla profunda de lenguajes y tecnologías. El primero es Just Dance, un videojuego que forma parte de mi vida desde hace años, sobre todo en reuniones con amigos, donde el cuerpo se convierte en el mando y bailar deja de ser solo algo físico. El segundo es Between Page and Screen, una obra que descubrí por casualidad pero que me hizo pensar mucho en el papel del lector como participante activo, donde los libros ya no son solo de papel, ni la poesía algo estático. Ambos casos reflejan, cada uno a su manera, lo que Manovich plantea: que el software no solo cambia los medios, sino que crea formas nuevas de vivirlos.
 
-JUST DANCE: cuando el cuerpo se convierte en interfaz
+<h2>JUST DANCE: cuando el cuerpo se convierte en interfaz</h2>
 
 ![analisis-just-dance-2022_y8g5](https://github.com/user-attachments/assets/05216d10-ebe7-4bc7-8054-8d7f481e4ca3)
 
@@ -25,7 +25,7 @@ Otro punto importante es la variabilidad. La experiencia no es la misma para cad
 
 En definitiva, Just Dance es un ejemplo claro de cómo el software no solo gestiona contenido: lo transforma, lo adapta y lo convierte en una experiencia en la que cuerpo y pantalla se funden.
 
-BETWEEN PAGE AND SCRREN: un libro que solo se revela a través de la cámara
+<h2>BETWEEN PAGE AND SCRREN: un libro que solo se revela a través de la cámara</h2>
 
 ![59e921_17c5f879f8d34f75a59322d9600c01a3~mv2](https://github.com/user-attachments/assets/39e4760d-acea-4c47-a67a-3c3e50575e1b)
 
@@ -39,4 +39,9 @@ Además, Between Page and Screen pone en práctica varios de los principios que 
 
 Otra idea que aparece con fuerza es la variabilidad. Aunque las páginas son las mismas para todos, la experiencia cambia dependiendo del dispositivo, la posición, la luz o incluso del orden en que el lector escanea las páginas. Eso introduce una especie de lectura no lineal, donde cada persona puede descubrir el contenido en secuencias distintas.
 
-En definitiva, aunque solo he podido conocer esta obra a través de análisis, vídeos y artículos, me parece un caso muy potente de cómo el software puede transformar un medio clásico como el libro en una experiencia sensorial, interactiva y completamente diferente. Un ejemplo perfecto de cómo los medios digitales no solo “añaden capas”, sino que reconfiguran por completo nuestras formas de leer, ver y entender.
+En definitiva, aunque solo he podido conocer esta obra a través de reviews, vídeos y artículos, me parece un caso muy potente de cómo el software puede transformar un medio clásico como el libro en una experiencia sensorial, interactiva y completamente diferente. Un ejemplo perfecto de cómo los medios digitales no solo “añaden capas”, sino que reconfiguran por completo nuestras formas de leer, ver e incluso, transmitir.
+
+<h2>REFLEXÍON</h2>
+
+Al analizar Just Dance y Between Page and Screen desde la perspectiva de Manovich, me doy cuenta de cómo el software no solo está presente en nuestras experiencias culturales, sino que las moldea por completo. En un caso, convierte el cuerpo en interfaz; en el otro, transforma la lectura en un acto performativo. Aunque son formatos muy distintos, ambos ejemplos demuestran que ya no consumimos medios como antes: ahora interactuamos con ellos, los activamos, los habitamos. Y eso, más allá de lo técnico, cambia también nuestra manera de relacionarnos con la cultura. Verlo así me ha hecho valorar más todo lo que hay detrás de las experiencias digitales cotidianas.
+
