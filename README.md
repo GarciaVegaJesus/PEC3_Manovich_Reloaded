@@ -45,3 +45,13 @@ En definitiva, aunque solo he podido conocer esta obra a través de reviews, ví
 
 Al analizar Just Dance y Between Page and Screen desde la perspectiva de Manovich, me doy cuenta de cómo el software no solo está presente en nuestras experiencias culturales, sino que las moldea por completo. En un caso, convierte el cuerpo en interfaz; en el otro, transforma la lectura en un acto performativo. Aunque son formatos muy distintos, ambos ejemplos demuestran que ya no consumimos medios como antes: ahora interactuamos con ellos, los activamos, los habitamos. Y eso, más allá de lo técnico, cambia también nuestra manera de relacionarnos con la cultura. Verlo así me ha hecho valorar más todo lo que hay detrás de las experiencias digitales cotidianas.
 
+<h2>BIBLIOGRAFÍA/WEBGRAFÍA</h2>
+
+Manovich, L. (2013). El lenguaje de los nuevos medios de comunicación: la imagen en la era digital.
+
+Wikipedia. (s.f.). Hibridación de medios. https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+
+Metalocus. (2011, marzo 21). Between Page and Screen. https://www.metalocus.es/es/noticias/between-page-and-screen
+
+Markdown. (s.f.). La guía definitiva en español. https://markdown.es/
+
