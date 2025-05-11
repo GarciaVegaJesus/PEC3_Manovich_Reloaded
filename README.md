@@ -25,7 +25,7 @@ Otro punto importante es la variabilidad. La experiencia no es la misma para cad
 
 En definitiva, Just Dance es un ejemplo claro de cómo el software no solo gestiona contenido: lo transforma, lo adapta y lo convierte en una experiencia en la que cuerpo y pantalla se funden.
 
-<h2>BETWEEN PAGE AND SCRREN: un libro que solo se revela a través de la cámara</h2>
+<h2>BETWEEN PAGE AND SCREEN: un libro que solo se revela a través de la cámara</h2>
 
 ![59e921_17c5f879f8d34f75a59322d9600c01a3~mv2](https://github.com/user-attachments/assets/39e4760d-acea-4c47-a67a-3c3e50575e1b)
 
